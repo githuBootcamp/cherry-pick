@@ -1,17 +1,4 @@
 # cherry-pick
-* nikky@nikky:$ git log --oneline
- ```
- - a519d4a (HEAD -> master) first text
- - 57474d7 css file add
- - 9dca4e6 fresh repo
-```
-
-* nikky@nikky:/$ git log second --oneline
-```
- - 6344d1e (second) first text
- - df35b4b css file add
- - 9dca4e6 fresh repo
-```
 
 ```BASH
 nikky@nikky:/$ touch index.html
